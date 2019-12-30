@@ -1,0 +1,3 @@
+des fonctions async sont créées dans le fichier base
+on les appelle avec await dans une fonction dans index
+finalement on appelle la fonction avec then dans index afin d'afficher le resultat dans la div d'IDS 'result'

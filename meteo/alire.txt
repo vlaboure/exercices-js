@@ -1,0 +1,2 @@
+récupére la météo de paris dans un objet XMLHttpRequest request et l'affiche en utilisant la fonction askWeather()
+quand on appuie sur le bouton quelle est la météo sur paris
